@@ -2,6 +2,8 @@
 
 _______
 
+Fork from alexandi/gldpy
+
 gldpy is Python package that implements  tools for using Generalized Lambda Distribution (GLD) of three different parameterization types.
 
 GLD is flexible family of continuous probability distributions with wide variety of density shapes under one functional form. It specified by four parameters which determine location, scale and shape (skewness and kurtosis) of the distribution.
